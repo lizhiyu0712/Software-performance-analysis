@@ -1,0 +1,5 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Test Quick Sort with array size20 x10000 times
+|	STOPTIMING: Test Quick Sort with array size20 x10000 times 23ms
+STOPTIMING: Main 71ms
+TOTAL TIME: 71ms

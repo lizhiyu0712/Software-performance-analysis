@@ -1,0 +1,21 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Test Populate Array
+|	|	STARTTIMING:  Populate Array of size 10 x 5000 times
+|	|	STOPTIMING: Populate Array of size 10 x 5000 times 3ms
+|	|	STARTTIMING:  Populate Array of size 50 x 5000 times
+|	|	STOPTIMING: Populate Array of size 50 x 5000 times 6ms
+|	|	STARTTIMING:  Populate Array of size 100 x 5000 times
+|	|	STOPTIMING: Populate Array of size 100 x 5000 times 8ms
+|	|	STARTTIMING:  Populate Array of size 500 x 5000 times
+|	|	STOPTIMING: Populate Array of size 500 x 5000 times 43ms
+|	|	STARTTIMING:  Populate Array of size 1000 x 5000 times
+|	|	STOPTIMING: Populate Array of size 1000 x 5000 times 57ms
+|	|	STARTTIMING:  Populate Array of size 5000 x 5000 times
+|	|	STOPTIMING: Populate Array of size 5000 x 5000 times 342ms
+|	|	STARTTIMING:  Populate Array of size 10000 x 5000 times
+|	|	STOPTIMING: Populate Array of size 10000 x 5000 times 689ms
+|	|	STARTTIMING:  Populate Array of size 100000 x 5000 times
+|	|	STOPTIMING: Populate Array of size 100000 x 5000 times 6791ms
+|	STOPTIMING: Test Populate Array 7940ms
+STOPTIMING: Main 7970ms
+TOTAL TIME: 7970ms

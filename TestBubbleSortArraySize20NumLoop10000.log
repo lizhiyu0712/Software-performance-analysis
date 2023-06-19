@@ -1,0 +1,5 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Test Bubble Sort with array size20 x10000 times
+|	STOPTIMING: Test Bubble Sort with array size20 x10000 times 24ms
+STOPTIMING: Main 62ms
+TOTAL TIME: 62ms

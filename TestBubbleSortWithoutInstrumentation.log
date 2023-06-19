@@ -1,0 +1,21 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Test Bubble Sort without instrumentation
+|	|	STARTTIMING:  Array Size = 10
+|	|	STOPTIMING: Array Size = 10 1ms
+|	|	STARTTIMING:  Array Size = 50
+|	|	STOPTIMING: Array Size = 50 0ms
+|	|	STARTTIMING:  Array Size = 100
+|	|	STOPTIMING: Array Size = 100 0ms
+|	|	STARTTIMING:  Array Size = 500
+|	|	STOPTIMING: Array Size = 500 4ms
+|	|	STARTTIMING:  Array Size = 1000
+|	|	STOPTIMING: Array Size = 1000 2ms
+|	|	STARTTIMING:  Array Size = 5000
+|	|	STOPTIMING: Array Size = 5000 28ms
+|	|	STARTTIMING:  Array Size = 10000
+|	|	STOPTIMING: Array Size = 10000 159ms
+|	|	STARTTIMING:  Array Size = 100000
+|	|	STOPTIMING: Array Size = 100000 18544ms
+|	STOPTIMING: Test Bubble Sort without instrumentation 18739ms
+STOPTIMING: Main 18777ms
+TOTAL TIME: 18777ms

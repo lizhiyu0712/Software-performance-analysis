@@ -1,0 +1,21 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Test Quick Sort without instrumentation
+|	|	STARTTIMING:  Array Size = 10
+|	|	STOPTIMING: Array Size = 10 1ms
+|	|	STARTTIMING:  Array Size = 50
+|	|	STOPTIMING: Array Size = 50 0ms
+|	|	STARTTIMING:  Array Size = 100
+|	|	STOPTIMING: Array Size = 100 0ms
+|	|	STARTTIMING:  Array Size = 500
+|	|	STOPTIMING: Array Size = 500 1ms
+|	|	STARTTIMING:  Array Size = 1000
+|	|	STOPTIMING: Array Size = 1000 0ms
+|	|	STARTTIMING:  Array Size = 5000
+|	|	STOPTIMING: Array Size = 5000 2ms
+|	|	STARTTIMING:  Array Size = 10000
+|	|	STOPTIMING: Array Size = 10000 3ms
+|	|	STARTTIMING:  Array Size = 100000
+|	|	STOPTIMING: Array Size = 100000 13ms
+|	STOPTIMING: Test Quick Sort without instrumentation 22ms
+STOPTIMING: Main 61ms
+TOTAL TIME: 61ms

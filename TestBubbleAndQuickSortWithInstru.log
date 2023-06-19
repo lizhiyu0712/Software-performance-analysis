@@ -1,0 +1,51 @@
+STARTTIMING:  Main
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 1ms
+|	COMMENT:  Bubble Sort of size: 10
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 10
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 0ms
+|	COMMENT:  Bubble Sort of size: 50
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 50
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 0ms
+|	COMMENT:  Bubble Sort of size: 100
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 100
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 3ms
+|	COMMENT:  Bubble Sort of size: 500
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 500
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 4ms
+|	COMMENT:  Bubble Sort of size: 1000
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 1000
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 26ms
+|	COMMENT:  Bubble Sort of size: 5000
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 0ms
+|	COMMENT:  Quick Sort of size: 5000
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 141ms
+|	COMMENT:  Bubble Sort of size: 10000
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 1ms
+|	COMMENT:  Quick Sort of size: 10000
+|	STARTTIMING:  Bubble Sort
+|	STOPTIMING: Bubble Sort 19165ms
+|	COMMENT:  Bubble Sort of size: 100000
+|	STARTTIMING:  Quick Sort
+|	STOPTIMING: Quickuick Sort 11ms
+|	COMMENT:  Quick Sort of size: 100000
+STOPTIMING: Main 19401ms
+TOTAL TIME: 19401ms
